@@ -11,8 +11,7 @@ Users should be able to:
 
 ### Screenshots
 
-<img src="./screenshots/Screenshot%202022-07-12%20at%2020-52-53%20Frontend%20Mentor%20Product%20preview%20card%20component.png" alt="Desktop View Screenshot"/>
-<img src="./screenshots/Screenshot 2022-07-12 at 21-27-06 Frontend Mentor Product preview card component.png" alt="Mobile View Screenshot" width="200px"/>
+<img src="./screenshots/Screenshot 2022-07-12 at 21-27-06 Frontend Mentor Product preview card component.png" alt="Mobile View Screenshot" width="200px"/> <img src="./screenshots/Screenshot%202022-07-12%20at%2020-52-53%20Frontend%20Mentor%20Product%20preview%20card%20component.png" alt="Desktop View Screenshot" width="700px"/>
 
 ### Links
 
