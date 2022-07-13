@@ -15,5 +15,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/ksabaa15/Product-preview-card-component](https://github.com/ksabaa15/Product-preview-card-component)
+- Solution URL: [https://github.com/ksabaa15/Product-preview-card-component/blob/main/index.html](https://github.com/ksabaa15/Product-preview-card-component/blob/main/index.html)
 - Live Site URL: [https://62cdcc181342bc008436b077--fantastic-salamander-b04b89.netlify.app/](https://62cdcc181342bc008436b077--fantastic-salamander-b04b89.netlify.app/)
